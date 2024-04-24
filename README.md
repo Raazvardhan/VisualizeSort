@@ -1,6 +1,4 @@
-Got it! Here's the revised README file with the project named "VisualizeSort":
 
----
 
 # VisualizeSort
 
